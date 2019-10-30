@@ -1,0 +1,12 @@
+{
+  "name": "you-choose-story-game",
+  "id": "6891538",
+  "description": "A you choose story game",
+  "gitUrl": "",
+  "workspaceType": "html5",
+  "dockerBaseImage": "cloud9/ws-html5:2017-08-31T12-15-07Z",
+  "owner": {
+    "name": "elleohelle",
+    "id": "2242290"
+  }
+}

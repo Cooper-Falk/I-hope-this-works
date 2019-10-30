@@ -1,0 +1,215 @@
+[Tue Apr 30 17:12:03.398320 2019] [mpm_prefork:notice] [pid 4172] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Tue Apr 30 17:12:03.398416 2019] [core:notice] [pid 4172] AH00094: Command line: 'apache2'
+[Tue Apr 30 17:21:08.002262 2019] [mpm_prefork:notice] [pid 4172] AH00169: caught SIGTERM, shutting down
+[Tue Apr 30 17:21:09.233370 2019] [mpm_prefork:notice] [pid 6993] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Tue Apr 30 17:21:09.233450 2019] [core:notice] [pid 6993] AH00094: Command line: 'apache2'
+[Thu May 09 16:39:43.989834 2019] [core:warn] [pid 2767] AH00098: pid file /home/ubuntu/lib/apache2/run/apache2.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu May 09 16:39:43.995068 2019] [mpm_prefork:notice] [pid 2767] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Thu May 09 16:39:43.995125 2019] [core:notice] [pid 2767] AH00094: Command line: 'apache2'
+[Thu May 09 16:44:18.077055 2019] [mpm_prefork:notice] [pid 2767] AH00169: caught SIGTERM, shutting down
+[Thu May 09 16:51:15.928971 2019] [mpm_prefork:notice] [pid 8723] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Thu May 09 16:51:15.929060 2019] [core:notice] [pid 8723] AH00094: Command line: 'apache2'
+[Thu May 09 16:51:22.789158 2019] [mpm_prefork:notice] [pid 8723] AH00169: caught SIGTERM, shutting down
+[Thu May 09 16:51:32.615696 2019] [mpm_prefork:notice] [pid 10288] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Thu May 09 16:51:32.615806 2019] [core:notice] [pid 10288] AH00094: Command line: 'apache2'
+[Thu May 09 16:51:35.305616 2019] [mpm_prefork:notice] [pid 10288] AH00169: caught SIGTERM, shutting down
+[Thu May 09 16:51:59.060541 2019] [mpm_prefork:notice] [pid 10828] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Thu May 09 16:51:59.060634 2019] [core:notice] [pid 10828] AH00094: Command line: 'apache2'
+[Thu May 09 16:53:00.210333 2019] [mpm_prefork:notice] [pid 10828] AH00169: caught SIGTERM, shutting down
+[Thu May 09 16:53:02.429998 2019] [mpm_prefork:notice] [pid 11363] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Thu May 09 16:53:02.430105 2019] [core:notice] [pid 11363] AH00094: Command line: 'apache2'
+[Thu May 09 16:53:37.749162 2019] [mpm_prefork:notice] [pid 11363] AH00169: caught SIGTERM, shutting down
+[Thu May 09 16:53:40.082867 2019] [mpm_prefork:notice] [pid 11906] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Thu May 09 16:53:40.082979 2019] [core:notice] [pid 11906] AH00094: Command line: 'apache2'
+[Thu May 09 16:54:35.371887 2019] [mpm_prefork:notice] [pid 11906] AH00169: caught SIGTERM, shutting down
+[Thu May 09 16:54:37.494691 2019] [mpm_prefork:notice] [pid 13472] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Thu May 09 16:54:37.494809 2019] [core:notice] [pid 13472] AH00094: Command line: 'apache2'
+[Thu May 09 16:54:39.961383 2019] [mpm_prefork:notice] [pid 13472] AH00169: caught SIGTERM, shutting down
+[Thu May 09 16:54:42.437352 2019] [mpm_prefork:notice] [pid 14057] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Thu May 09 16:54:42.437435 2019] [core:notice] [pid 14057] AH00094: Command line: 'apache2'
+[Thu May 09 16:57:41.732922 2019] [mpm_prefork:notice] [pid 14057] AH00169: caught SIGTERM, shutting down
+[Thu May 09 16:57:44.349455 2019] [mpm_prefork:notice] [pid 14670] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Thu May 09 16:57:44.349544 2019] [core:notice] [pid 14670] AH00094: Command line: 'apache2'
+[Thu May 09 16:57:47.853690 2019] [mpm_prefork:notice] [pid 14670] AH00169: caught SIGTERM, shutting down
+[Thu May 09 16:57:51.063387 2019] [mpm_prefork:notice] [pid 15199] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Thu May 09 16:57:51.063497 2019] [core:notice] [pid 15199] AH00094: Command line: 'apache2'
+[Thu May 09 16:57:58.242403 2019] [mpm_prefork:notice] [pid 15199] AH00169: caught SIGTERM, shutting down
+[Thu May 09 16:58:00.576781 2019] [mpm_prefork:notice] [pid 15747] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Thu May 09 16:58:00.576877 2019] [core:notice] [pid 15747] AH00094: Command line: 'apache2'
+[Thu May 09 16:58:07.049853 2019] [mpm_prefork:notice] [pid 15747] AH00169: caught SIGTERM, shutting down
+[Thu May 09 16:58:08.256458 2019] [mpm_prefork:notice] [pid 16265] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Thu May 09 16:58:08.256553 2019] [core:notice] [pid 16265] AH00094: Command line: 'apache2'
+[Thu May 09 16:58:10.979793 2019] [mpm_prefork:notice] [pid 16265] AH00169: caught SIGTERM, shutting down
+[Thu May 09 16:58:13.246421 2019] [mpm_prefork:notice] [pid 16799] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Thu May 09 16:58:13.246518 2019] [core:notice] [pid 16799] AH00094: Command line: 'apache2'
+[Thu May 09 16:59:23.400946 2019] [mpm_prefork:notice] [pid 16799] AH00169: caught SIGTERM, shutting down
+[Thu May 09 16:59:25.618688 2019] [mpm_prefork:notice] [pid 17347] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Thu May 09 16:59:25.618773 2019] [core:notice] [pid 17347] AH00094: Command line: 'apache2'
+[Thu May 09 17:02:37.629628 2019] [mpm_prefork:notice] [pid 17347] AH00169: caught SIGTERM, shutting down
+[Thu May 09 17:02:39.865720 2019] [mpm_prefork:notice] [pid 17958] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Thu May 09 17:02:39.865813 2019] [core:notice] [pid 17958] AH00094: Command line: 'apache2'
+[Thu May 09 17:03:56.037324 2019] [mpm_prefork:notice] [pid 17958] AH00169: caught SIGTERM, shutting down
+[Thu May 09 17:03:57.212177 2019] [mpm_prefork:notice] [pid 19551] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Thu May 09 17:03:57.212265 2019] [core:notice] [pid 19551] AH00094: Command line: 'apache2'
+[Thu May 09 17:05:02.661005 2019] [mpm_prefork:notice] [pid 19551] AH00169: caught SIGTERM, shutting down
+[Thu May 09 17:05:03.962787 2019] [mpm_prefork:notice] [pid 20187] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Thu May 09 17:05:03.962876 2019] [core:notice] [pid 20187] AH00094: Command line: 'apache2'
+[Thu May 09 17:05:17.382070 2019] [mpm_prefork:notice] [pid 20187] AH00169: caught SIGTERM, shutting down
+[Thu May 09 17:05:18.590871 2019] [mpm_prefork:notice] [pid 20718] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Thu May 09 17:05:18.590981 2019] [core:notice] [pid 20718] AH00094: Command line: 'apache2'
+[Thu May 09 17:05:58.175872 2019] [mpm_prefork:notice] [pid 20718] AH00169: caught SIGTERM, shutting down
+[Thu May 09 17:06:00.250450 2019] [mpm_prefork:notice] [pid 21269] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Thu May 09 17:06:00.250545 2019] [core:notice] [pid 21269] AH00094: Command line: 'apache2'
+[Thu May 09 17:06:24.616243 2019] [mpm_prefork:notice] [pid 21269] AH00169: caught SIGTERM, shutting down
+[Thu May 09 17:06:27.099077 2019] [mpm_prefork:notice] [pid 21816] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Thu May 09 17:06:27.099168 2019] [core:notice] [pid 21816] AH00094: Command line: 'apache2'
+[Thu May 09 17:08:13.557071 2019] [mpm_prefork:notice] [pid 21816] AH00169: caught SIGTERM, shutting down
+[Thu May 09 17:08:14.770672 2019] [mpm_prefork:notice] [pid 22367] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Thu May 09 17:08:14.770773 2019] [core:notice] [pid 22367] AH00094: Command line: 'apache2'
+[Thu May 09 17:14:58.259164 2019] [mpm_prefork:notice] [pid 22367] AH00169: caught SIGTERM, shutting down
+[Thu May 09 17:15:00.562030 2019] [mpm_prefork:notice] [pid 23055] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Thu May 09 17:15:00.562125 2019] [core:notice] [pid 23055] AH00094: Command line: 'apache2'
+[Thu May 09 17:16:31.701040 2019] [mpm_prefork:notice] [pid 23055] AH00169: caught SIGTERM, shutting down
+[Thu May 09 17:16:33.880986 2019] [mpm_prefork:notice] [pid 23640] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Thu May 09 17:16:33.881076 2019] [core:notice] [pid 23640] AH00094: Command line: 'apache2'
+[Thu May 09 17:17:25.577029 2019] [mpm_prefork:notice] [pid 23640] AH00169: caught SIGTERM, shutting down
+[Thu May 09 17:17:26.786404 2019] [mpm_prefork:notice] [pid 25257] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Thu May 09 17:17:26.786499 2019] [core:notice] [pid 25257] AH00094: Command line: 'apache2'
+[Thu May 09 17:21:06.976616 2019] [mpm_prefork:notice] [pid 25257] AH00169: caught SIGTERM, shutting down
+[Thu May 09 17:21:08.189629 2019] [mpm_prefork:notice] [pid 26415] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Thu May 09 17:21:08.189742 2019] [core:notice] [pid 26415] AH00094: Command line: 'apache2'
+[Tue May 14 16:50:04.104347 2019] [core:warn] [pid 16619] AH00098: pid file /home/ubuntu/lib/apache2/run/apache2.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue May 14 16:50:04.112233 2019] [mpm_prefork:notice] [pid 16619] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Tue May 14 16:50:04.112292 2019] [core:notice] [pid 16619] AH00094: Command line: 'apache2'
+[Tue May 14 16:51:47.138771 2019] [mpm_prefork:notice] [pid 16619] AH00169: caught SIGTERM, shutting down
+[Tue May 14 16:51:49.393568 2019] [mpm_prefork:notice] [pid 18764] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Tue May 14 16:51:49.393668 2019] [core:notice] [pid 18764] AH00094: Command line: 'apache2'
+[Tue May 14 17:21:08.296992 2019] [mpm_prefork:notice] [pid 18764] AH00169: caught SIGTERM, shutting down
+[Tue May 14 17:21:09.549806 2019] [mpm_prefork:notice] [pid 19571] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Tue May 14 17:21:09.549905 2019] [core:notice] [pid 19571] AH00094: Command line: 'apache2'
+[Tue May 14 17:21:59.060840 2019] [mpm_prefork:notice] [pid 19571] AH00169: caught SIGTERM, shutting down
+[Tue May 14 17:22:00.373501 2019] [mpm_prefork:notice] [pid 20095] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Tue May 14 17:22:00.373611 2019] [core:notice] [pid 20095] AH00094: Command line: 'apache2'
+[Thu May 16 16:38:16.702915 2019] [core:warn] [pid 12406] AH00098: pid file /home/ubuntu/lib/apache2/run/apache2.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu May 16 16:38:16.709922 2019] [mpm_prefork:notice] [pid 12406] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Thu May 16 16:38:16.709972 2019] [core:notice] [pid 12406] AH00094: Command line: 'apache2'
+[Thu May 16 16:43:02.510824 2019] [mpm_prefork:notice] [pid 12406] AH00169: caught SIGTERM, shutting down
+[Thu May 16 16:43:04.767905 2019] [mpm_prefork:notice] [pid 13407] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Thu May 16 16:43:04.768001 2019] [core:notice] [pid 13407] AH00094: Command line: 'apache2'
+[Thu May 16 16:45:57.699805 2019] [mpm_prefork:notice] [pid 13407] AH00169: caught SIGTERM, shutting down
+[Thu May 16 16:45:58.929984 2019] [mpm_prefork:notice] [pid 13962] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Thu May 16 16:45:58.930088 2019] [core:notice] [pid 13962] AH00094: Command line: 'apache2'
+[Thu May 16 16:48:47.952334 2019] [mpm_prefork:notice] [pid 13962] AH00169: caught SIGTERM, shutting down
+[Thu May 16 16:48:49.113660 2019] [mpm_prefork:notice] [pid 14503] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Thu May 16 16:48:49.113752 2019] [core:notice] [pid 14503] AH00094: Command line: 'apache2'
+[Thu May 16 16:53:24.116696 2019] [mpm_prefork:notice] [pid 14503] AH00169: caught SIGTERM, shutting down
+[Thu May 16 16:53:25.563860 2019] [mpm_prefork:notice] [pid 15091] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Thu May 16 16:53:25.563959 2019] [core:notice] [pid 15091] AH00094: Command line: 'apache2'
+[Thu May 16 16:53:26.625886 2019] [mpm_prefork:notice] [pid 15091] AH00169: caught SIGTERM, shutting down
+[Thu May 16 16:53:27.839532 2019] [mpm_prefork:notice] [pid 15587] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Thu May 16 16:53:27.839636 2019] [core:notice] [pid 15587] AH00094: Command line: 'apache2'
+[Thu May 16 17:02:30.262336 2019] [mpm_prefork:notice] [pid 15587] AH00169: caught SIGTERM, shutting down
+[Thu May 16 17:02:31.486711 2019] [mpm_prefork:notice] [pid 17210] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Thu May 16 17:02:31.486827 2019] [core:notice] [pid 17210] AH00094: Command line: 'apache2'
+[Thu May 16 17:04:31.912578 2019] [mpm_prefork:notice] [pid 17210] AH00169: caught SIGTERM, shutting down
+[Thu May 16 17:04:33.266041 2019] [mpm_prefork:notice] [pid 17762] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Thu May 16 17:04:33.266165 2019] [core:notice] [pid 17762] AH00094: Command line: 'apache2'
+[Thu May 16 17:05:01.670830 2019] [mpm_prefork:notice] [pid 17762] AH00169: caught SIGTERM, shutting down
+[Thu May 16 17:05:02.827802 2019] [mpm_prefork:notice] [pid 18306] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Thu May 16 17:05:02.827888 2019] [core:notice] [pid 18306] AH00094: Command line: 'apache2'
+[Thu May 16 17:06:01.848313 2019] [mpm_prefork:notice] [pid 18306] AH00169: caught SIGTERM, shutting down
+[Thu May 16 17:06:04.118290 2019] [mpm_prefork:notice] [pid 18866] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Thu May 16 17:06:04.118372 2019] [core:notice] [pid 18866] AH00094: Command line: 'apache2'
+[Thu May 16 17:06:06.499766 2019] [mpm_prefork:notice] [pid 18866] AH00169: caught SIGTERM, shutting down
+[Thu May 16 17:06:08.716323 2019] [mpm_prefork:notice] [pid 19404] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Thu May 16 17:06:08.716447 2019] [core:notice] [pid 19404] AH00094: Command line: 'apache2'
+[Thu May 16 17:06:14.715753 2019] [mpm_prefork:notice] [pid 19404] AH00169: caught SIGTERM, shutting down
+[Thu May 16 17:06:19.953823 2019] [mpm_prefork:notice] [pid 21409] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Thu May 16 17:06:19.953935 2019] [core:notice] [pid 21409] AH00094: Command line: 'apache2'
+[Thu May 16 17:06:20.291005 2019] [mpm_prefork:notice] [pid 21409] AH00169: caught SIGTERM, shutting down
+[Thu May 16 17:06:21.433071 2019] [mpm_prefork:notice] [pid 21522] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Thu May 16 17:06:21.433166 2019] [core:notice] [pid 21522] AH00094: Command line: 'apache2'
+[Thu May 16 17:08:03.060946 2019] [mpm_prefork:notice] [pid 21522] AH00169: caught SIGTERM, shutting down
+[Thu May 16 17:08:05.402958 2019] [mpm_prefork:notice] [pid 22065] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Thu May 16 17:08:05.403073 2019] [core:notice] [pid 22065] AH00094: Command line: 'apache2'
+[Thu May 16 17:08:07.592177 2019] [mpm_prefork:notice] [pid 22065] AH00169: caught SIGTERM, shutting down
+[Thu May 16 17:08:08.810765 2019] [mpm_prefork:notice] [pid 22590] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Thu May 16 17:08:08.810859 2019] [core:notice] [pid 22590] AH00094: Command line: 'apache2'
+[Thu May 16 17:10:34.044563 2019] [mpm_prefork:notice] [pid 22590] AH00169: caught SIGTERM, shutting down
+[Thu May 16 17:10:36.291199 2019] [mpm_prefork:notice] [pid 23140] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Thu May 16 17:10:36.291311 2019] [core:notice] [pid 23140] AH00094: Command line: 'apache2'
+[Thu May 16 17:14:56.134163 2019] [mpm_prefork:notice] [pid 23140] AH00169: caught SIGTERM, shutting down
+[Thu May 16 17:14:57.350677 2019] [mpm_prefork:notice] [pid 23696] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Thu May 16 17:14:57.350790 2019] [core:notice] [pid 23696] AH00094: Command line: 'apache2'
+[Thu May 16 17:16:44.548262 2019] [mpm_prefork:notice] [pid 23696] AH00169: caught SIGTERM, shutting down
+[Thu May 16 17:16:45.785739 2019] [mpm_prefork:notice] [pid 24238] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Thu May 16 17:16:45.785852 2019] [core:notice] [pid 24238] AH00094: Command line: 'apache2'
+[Thu May 16 17:18:13.991693 2019] [mpm_prefork:notice] [pid 24238] AH00169: caught SIGTERM, shutting down
+[Thu May 16 17:18:17.171407 2019] [mpm_prefork:notice] [pid 25127] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Thu May 16 17:18:17.171516 2019] [core:notice] [pid 25127] AH00094: Command line: 'apache2'
+[Thu May 16 17:20:04.450105 2019] [mpm_prefork:notice] [pid 25127] AH00169: caught SIGTERM, shutting down
+[Thu May 16 17:20:06.684310 2019] [mpm_prefork:notice] [pid 25684] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Thu May 16 17:20:06.684399 2019] [core:notice] [pid 25684] AH00094: Command line: 'apache2'
+[Thu May 16 17:21:12.953385 2019] [mpm_prefork:notice] [pid 25684] AH00169: caught SIGTERM, shutting down
+[Thu May 16 17:21:14.369318 2019] [mpm_prefork:notice] [pid 26219] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Thu May 16 17:21:14.369430 2019] [core:notice] [pid 26219] AH00094: Command line: 'apache2'
+[Thu May 16 18:11:26.256088 2019] [mpm_prefork:notice] [pid 26219] AH00169: caught SIGTERM, shutting down
+[Thu May 16 18:11:27.502462 2019] [mpm_prefork:notice] [pid 29804] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Thu May 16 18:11:27.502609 2019] [core:notice] [pid 29804] AH00094: Command line: 'apache2'
+[Fri May 17 12:28:05.705972 2019] [core:warn] [pid 2208] AH00098: pid file /home/ubuntu/lib/apache2/run/apache2.pid overwritten -- Unclean shutdown of previous Apache run?
+[Fri May 17 12:28:05.711666 2019] [mpm_prefork:notice] [pid 2208] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Fri May 17 12:28:05.711718 2019] [core:notice] [pid 2208] AH00094: Command line: 'apache2'
+[Tue May 21 16:32:34.975942 2019] [core:warn] [pid 5782] AH00098: pid file /home/ubuntu/lib/apache2/run/apache2.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue May 21 16:32:34.981978 2019] [mpm_prefork:notice] [pid 5782] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Tue May 21 16:32:34.982022 2019] [core:notice] [pid 5782] AH00094: Command line: 'apache2'
+[Tue May 21 16:37:34.543380 2019] [mpm_prefork:notice] [pid 5782] AH00169: caught SIGTERM, shutting down
+[Tue May 21 16:37:35.665662 2019] [mpm_prefork:notice] [pid 7018] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Tue May 21 16:37:35.665769 2019] [core:notice] [pid 7018] AH00094: Command line: 'apache2'
+[Tue May 21 16:43:55.148514 2019] [mpm_prefork:notice] [pid 7018] AH00169: caught SIGTERM, shutting down
+[Tue May 21 16:43:57.256728 2019] [mpm_prefork:notice] [pid 7586] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Tue May 21 16:43:57.256815 2019] [core:notice] [pid 7586] AH00094: Command line: 'apache2'
+[Tue May 21 16:50:49.140765 2019] [mpm_prefork:notice] [pid 7586] AH00169: caught SIGTERM, shutting down
+[Tue May 21 16:50:50.325735 2019] [mpm_prefork:notice] [pid 9205] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Tue May 21 16:50:50.325803 2019] [core:notice] [pid 9205] AH00094: Command line: 'apache2'
+[Tue May 21 16:51:27.861429 2019] [mpm_prefork:notice] [pid 9205] AH00169: caught SIGTERM, shutting down
+[Tue May 21 16:51:29.116933 2019] [mpm_prefork:notice] [pid 9730] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Tue May 21 16:51:29.117008 2019] [core:notice] [pid 9730] AH00094: Command line: 'apache2'
+[Tue May 21 16:51:51.525539 2019] [mpm_prefork:notice] [pid 9730] AH00169: caught SIGTERM, shutting down
+[Tue May 21 16:51:53.559771 2019] [mpm_prefork:notice] [pid 10270] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Tue May 21 16:51:53.559870 2019] [core:notice] [pid 10270] AH00094: Command line: 'apache2'
+[Tue May 21 16:52:19.033732 2019] [mpm_prefork:notice] [pid 10270] AH00169: caught SIGTERM, shutting down
+[Tue May 21 16:52:21.069558 2019] [mpm_prefork:notice] [pid 10807] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Tue May 21 16:52:21.069653 2019] [core:notice] [pid 10807] AH00094: Command line: 'apache2'
+[Tue May 21 16:52:43.253326 2019] [mpm_prefork:notice] [pid 10807] AH00169: caught SIGTERM, shutting down
+[Tue May 21 16:52:45.258813 2019] [mpm_prefork:notice] [pid 11342] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Tue May 21 16:52:45.258879 2019] [core:notice] [pid 11342] AH00094: Command line: 'apache2'
+[Tue May 21 16:55:26.019459 2019] [mpm_prefork:notice] [pid 11342] AH00169: caught SIGTERM, shutting down
+[Tue May 21 16:55:28.015002 2019] [mpm_prefork:notice] [pid 11903] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Tue May 21 16:55:28.015072 2019] [core:notice] [pid 11903] AH00094: Command line: 'apache2'
+[Tue May 21 16:55:35.441183 2019] [mpm_prefork:notice] [pid 11903] AH00169: caught SIGTERM, shutting down
+[Tue May 21 16:55:36.714201 2019] [mpm_prefork:notice] [pid 12421] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Tue May 21 16:55:36.714284 2019] [core:notice] [pid 12421] AH00094: Command line: 'apache2'
+[Tue May 21 17:17:54.341148 2019] [mpm_prefork:notice] [pid 12421] AH00169: caught SIGTERM, shutting down
+[Tue May 21 17:17:55.535464 2019] [mpm_prefork:notice] [pid 14248] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Tue May 21 17:17:55.535559 2019] [core:notice] [pid 14248] AH00094: Command line: 'apache2'
+[Tue May 21 17:18:06.521089 2019] [mpm_prefork:notice] [pid 14248] AH00169: caught SIGTERM, shutting down
+[Tue May 21 17:18:08.634675 2019] [mpm_prefork:notice] [pid 14790] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Tue May 21 17:18:08.634772 2019] [core:notice] [pid 14790] AH00094: Command line: 'apache2'
+[Tue May 21 17:22:48.320981 2019] [mpm_prefork:notice] [pid 14790] AH00169: caught SIGTERM, shutting down
+[Tue May 21 17:22:49.514734 2019] [mpm_prefork:notice] [pid 15388] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Tue May 21 17:22:49.514821 2019] [core:notice] [pid 15388] AH00094: Command line: 'apache2'
+[Tue May 21 21:10:37.070732 2019] [core:warn] [pid 2612] AH00098: pid file /home/ubuntu/lib/apache2/run/apache2.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue May 21 21:10:37.076001 2019] [mpm_prefork:notice] [pid 2612] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Tue May 21 21:10:37.076068 2019] [core:notice] [pid 2612] AH00094: Command line: 'apache2'
+[Tue May 21 21:23:53.609890 2019] [mpm_prefork:notice] [pid 2612] AH00169: caught SIGTERM, shutting down
+[Tue May 21 21:23:55.810784 2019] [mpm_prefork:notice] [pid 4401] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Tue May 21 21:23:55.810895 2019] [core:notice] [pid 4401] AH00094: Command line: 'apache2'
+[Tue May 21 21:25:55.592955 2019] [mpm_prefork:notice] [pid 4401] AH00169: caught SIGTERM, shutting down
+[Tue May 21 21:25:57.677002 2019] [mpm_prefork:notice] [pid 5978] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Tue May 21 21:25:57.677088 2019] [core:notice] [pid 5978] AH00094: Command line: 'apache2'
+[Tue May 21 21:29:05.876668 2019] [mpm_prefork:notice] [pid 5978] AH00169: caught SIGTERM, shutting down
+[Tue May 21 21:29:07.062775 2019] [mpm_prefork:notice] [pid 6510] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Tue May 21 21:29:07.062860 2019] [core:notice] [pid 6510] AH00094: Command line: 'apache2'
+[Fri May 24 19:22:55.517976 2019] [core:warn] [pid 2790] AH00098: pid file /home/ubuntu/lib/apache2/run/apache2.pid overwritten -- Unclean shutdown of previous Apache run?
+[Fri May 24 19:22:55.524432 2019] [mpm_prefork:notice] [pid 2790] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Fri May 24 19:22:55.524478 2019] [core:notice] [pid 2790] AH00094: Command line: 'apache2'
